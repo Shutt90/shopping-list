@@ -1,4 +1,8 @@
-# compo-cc
+# Shopping List
+
+## Description
+
+Realised I hadn't built a shopping/to-do list yet and I wanted to make something on a speed run
 
 ## Project setup
 ```
